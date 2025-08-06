@@ -1,0 +1,7 @@
+#include <stdio.h>
+int i = 16;
+int j=   18;
+int k= i+j;
+printf(%d,k);
+
+
